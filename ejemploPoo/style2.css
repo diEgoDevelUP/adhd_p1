@@ -1,0 +1,13 @@
+body{
+    background-image: radial-gradient(at center, #6C3483, #273746);
+}
+.col>h1{
+    color: white;
+    text-align: center;
+}
+.col>form>.mb-3>label{
+    color: white;
+}
+.col{
+    margin-top: 50px;
+}
